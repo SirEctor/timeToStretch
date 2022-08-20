@@ -1,2 +1,2 @@
 # timeToStretch
-Simple Mozilla firefox to remind you to stretch every hour.
+Simple Mozilla firefox to remind you to stretch every hour. :stopwatch:
