@@ -1,0 +1,14 @@
+{
+
+    "manifest_version": 2,
+    "name": "timeToStretch",
+    "version": "1.0",
+  
+    "description": "Reminds you to stretch every hour.",
+  
+    "icons": {
+      "48": "icons/stars.png"
+    }
+  
+  }
+  
