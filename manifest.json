@@ -3,12 +3,18 @@
     "manifest_version": 2,
     "name": "timeToStretch",
     "version": "1.0",
-  
+    "homepage_url": "https://github.com/sirector/timeToStretch",
+    "icons": {
+      "48": "icons/icon2.png"
+    },
     "description": "Reminds you to stretch every hour.",
+    "permissions": [
+      "notifications"
+    ],
+    "background": {
+      "scripts": ["index.js"]
+    },
     "browser_action": {
-      "default_icon": {
-        "48": "icons/stars.png"
-      },
       "default_title": "Hourly Check!",
       "default_popup": "index.html"
     }
