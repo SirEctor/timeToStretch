@@ -1,5 +1,3 @@
-console.log("INDEX JS ACTIVATED!")
-
 function sendNotification() {
     browser.notifications.create({
       "type": "basic",
