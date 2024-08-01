@@ -5,10 +5,12 @@
     "version": "1.0",
   
     "description": "Reminds you to stretch every hour.",
-  
-    "icons": {
-      "48": "icons/stars.png"
+    "browser_action": {
+      "default_icon": {
+        "48": "icons/stars.png"
+      },
+      "default_title": "Hourly Check!",
+      "default_popup": "index.html"
     }
-  
   }
   
